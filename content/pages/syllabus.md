@@ -78,27 +78,165 @@ The final grade will be based on the problem sets, two evening quizzes, and a fi
 
 The grading breakdown is as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 30% |
-| Quiz 1 | 20% |
-| Quiz 2 | 20% |
-| Final Exam | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Although the problem sets account for only 20% of your final grade, you are required to at least attempt them. The following table shows the impact of failing to attempt problems:
 
-| QUESTIONS | IMPACT |
-| --- | --- |
-| 0 | None |
-| 1 | 1/100 of a letter grade |
-| 2 | 1/10 of a letter grade |
-| 3 | 1/5 of a letter grade |
-| 4 | 1/4 of a letter grade |
-| 5 | 1/3 of a letter grade |
-| 6 | 1/2 of a letter grade |
-| 7 | One letter grade |
-| 8 | Two letter grades |
-| 9 or more | Fail the course 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+QUESTIONS
+{{< thclose >}}
+{{< thopen >}}
+IMPACT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+0
+{{< tdclose >}}
+{{< tdopen >}}
+None
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+1/100 of a letter grade
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+1/10 of a letter grade
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+1/5 of a letter grade
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+1/4 of a letter grade
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+1/3 of a letter grade
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+1/2 of a letter grade
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+One letter grade
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Two letter grades
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9 or more
+{{< tdclose >}}
+{{< tdopen >}}
+Fail the course
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Please observe that this table is for _questions_ skipped, not _problem sets_.
 

@@ -32,17 +32,110 @@ Remember, your goal is to communicate. Graders will be instructed to take off po
 The problem sets include both textbook exercises and problems from the course textbook:  
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) Cormen, Thomas, Charles Leiserson, et al. _Introduction to Algorithms_. 3rd ed. MIT Press, 2009. ISBN: 9780262033848. \[Preview with [Google Books](http://books.google.com/books?id=i-bUBQAAQBAJ&printsec=frontcover)\]
 
-| ASSIGNMENTS | SOLUTIONS |
-| --- | --- |
-| [Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset1) | [Solutions to Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset1sols) |
-| [Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset2) | [Solutions to Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset2sols) |
-| [Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset3) | [Solutions to Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset3sols) |
-| [Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset4) | [Solutions to Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset4sols) |
-| [Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset5) | [Solutions to Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset5sols) |
-| [Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset6) | [Solutions to Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset6sols) |
-| [Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset7) | [Solutions to Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset7sols) |
-| [Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset8) | [Solutions to Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset8sols) |
-| [Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset9) | [Solutions to Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset9sols) |
-| [Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset10) | [Solutions to Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset10sols) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset1)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 1 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset1sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset2)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 2 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset2sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset3)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 3 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset3sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset4)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 4 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset4sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset5)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 5 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset5sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset6)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 6 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset6sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset7)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 7 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset7sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset8)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 8 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset8sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset9)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 9 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset9sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset10)
+{{< tdclose >}}
+{{< tdopen >}}
+[Solutions to Problem Set 10 (PDF)]({{< baseurl >}}/resources/mit6_046js15_pset10sols)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 [LaTeX Template for Problem Sets (ZIP)]({{< baseurl >}}/resources/template) (This file contains: 1 .cls file, 2 .sty files, 1 .pdf file and 1 .tex file.)

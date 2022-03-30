@@ -17,8 +17,8 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-fall-2011/)
-*   Either [_6.042J Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-fall-2010/) or [_18.310 Principles of Discrete Applied Mathematics_](/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013/)
+*   [_6.006 Introduction to Algorithms_](/courses/6-006-introduction-to-algorithms-fall-2011)
+*   Either [_6.042J Mathematics for Computer Science_](/courses/6-042j-mathematics-for-computer-science-fall-2010) or [_18.310 Principles of Discrete Applied Mathematics_](/courses/18-310-principles-of-discrete-applied-mathematics-fall-2013)
 
 ### Requirements Satisfied
 
